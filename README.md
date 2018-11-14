@@ -1,2 +1,2 @@
-# Yelp_project_group7b
+# Yelp-project
 Course 5293 
